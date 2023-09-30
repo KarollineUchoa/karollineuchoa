@@ -1,4 +1,4 @@
-<img align="right" width="280px" src="avatar1.png">
+<img align="right" width="350px" src="avatar1.png">
 
 # Karolline Uchôa 👋
 
@@ -29,6 +29,8 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 </p>
 
 ## 🔎 O Que Você Encontrará Aqui
+
+<img width="300px" align="right" src="avatar2.png">
 
 - 📁 Projetos relacionados à Ciência de Dados e programação.
 - 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.
