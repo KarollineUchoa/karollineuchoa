@@ -43,7 +43,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
 ## 🌱 Estou aprendendo
 
-<img src="excel2.png" height="50"/>
+<img src="excel.png" height="50"/>
 
 ## 💬 Conecte-se Comigo
 
