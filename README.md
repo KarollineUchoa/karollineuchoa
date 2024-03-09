@@ -6,7 +6,7 @@
 
 Me chamo Karolline, mas pode me chamar de Karol, tenho 35 anos, natural de Belém/PA, mas moro no Rio de Janeiro/RJ. Sou apaixonada por gatinhos e tenho grande apreço pelos animais🐈.
 
-No momento estou no 1º período de Ciência da Computação 💻, mas já estou mergulhada no mundo de análise de dados desde maio de 2023.
+No momento estou cursando Ciência da Computação 💻 desde agosto de 2023, mas já estou mergulhada no mundo de análise de dados desde maio de 2023.
 
 Estou em busca de uma carreira que me proporcione maior satisfação pessoal e profissional, e foi assim que descobri minha paixão pela análise de Dados📊.
 
