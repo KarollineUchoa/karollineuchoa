@@ -1,4 +1,17 @@
-<img align="right" width="350px" src="avatar1.png">
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .avatar {
+      position: fixed;
+      top: 0;
+      right: 0;
+      z-index: 9999;
+    }
+<img class="avatar" align="right" width="350px" src="avatar1.png">
 
 # Karolline Uchôa 👋
 
