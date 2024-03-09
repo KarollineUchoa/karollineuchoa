@@ -39,6 +39,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 ## 🛠️ Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="sql_logo.png" height="50"/>
 
 ## 🌱 Estou aprendendo
 
