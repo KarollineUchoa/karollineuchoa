@@ -11,6 +11,7 @@
       right: 0;
       z-index: 9999;
     }
+ </style>
 <img class="avatar" align="right" width="350px" src="avatar1.png">
 
 # Karolline Uchôa 👋
