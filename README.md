@@ -49,10 +49,8 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
 - Excel;
 - Power BI.
-</br>
-
-   <img height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="margin-right: 10px;"/>
-   <img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" style="margin-right: 10px;"/>
+  </br>
+  <img  height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="margin-right: 10px;"/><img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" style="margin-right: 10px;"/>
    
 
 ## 💬 Conecte-se Comigo
