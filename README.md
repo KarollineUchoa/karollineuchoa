@@ -1,7 +1,6 @@
-d# Karolline Uchôa 👋
+# Karolline Uchôa 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-   <div align="left">
+<img align="right" width="220px" src="avatar1.png">
 
 Me chamo Karolline, mas pode me chamar de Karol, tenho 35 anos, natural de Belém/PA, mas moro no Rio de Janeiro/RJ. Sou apaixonada por gatinhos e tenho grande apreço pelos animais🐈.
 
@@ -13,9 +12,7 @@ Nas minhas horas livres, adoro assistir a séries e filmes para relaxar e me ent
 
 Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 💡
 
-  </div>
-   <img align="right" width="202px" src="avatar1.png">
-</div>
+
 
 ## 👩🏻‍🦰 Mais sobre Mim
 
@@ -31,14 +28,13 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
 ## 🔎 O Que Você Encontrará Aqui
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; max-width: 50%;">
+<img align= "right" width="350px" src="avatar2.png">
 
 - 📁 Projetos relacionados à Ciência de Dados e programação.<br/>
 - 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.<br/>
 - 🧠 Documentação e recursos que encontrei úteis durante minha jornada de aprendizado.<br/>
 
-## 🛠️ Ferramentas e Tecnologias
+### 🛠️**Ferramentas e Tecnologias**
 
 - Python;
 - Git;
@@ -49,7 +45,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
    <img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor" style="margin-right: 10px;">
    <img src="sql_logo.png" height="50" style="margin-right: 10px;">
 
-## 🌱 Estou aprendendo
+### 🌱 **Estou aprendendo**
 
 - Excel;
 - Power BI.
@@ -57,9 +53,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
    <img height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="margin-right: 10px;"/>
    <img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" style="margin-right: 10px;"/>
-  </div>
-  <img width="350px" src="avatar2.png">
-</div>
+   
 
 ## 💬 Conecte-se Comigo
 
