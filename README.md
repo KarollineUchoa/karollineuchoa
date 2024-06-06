@@ -1,8 +1,7 @@
-<img align="right" width="350px" src="avatar1.png">
+d# Karolline Uchôa 👋
 
-# Karolline Uchôa 👋
-
-<div align="left">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+   <div align="left">
 
 Me chamo Karolline, mas pode me chamar de Karol, tenho 35 anos, natural de Belém/PA, mas moro no Rio de Janeiro/RJ. Sou apaixonada por gatinhos e tenho grande apreço pelos animais🐈.
 
@@ -14,6 +13,8 @@ Nas minhas horas livres, adoro assistir a séries e filmes para relaxar e me ent
 
 Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 💡
 
+  </div>
+   <img align="right" width="202px" src="avatar1.png">
 </div>
 
 ## 👩🏻‍🦰 Mais sobre Mim
@@ -24,26 +25,41 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 - 🌍 Sou apaixonada por explorar novos conceitos e compartilhar meu conhecimento com a comunidade;
 - 😺 Mordi minha língua e hoje sou apaixonada por gatos.
 
-<p align="center">
+<div align="center">
 <img src="gif_gato.gif">
-</p>
+</div>
 
 ## 🔎 O Que Você Encontrará Aqui
 
-<img width="300px" align="right" src="avatar2.png">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; max-width: 50%;">
 
-- 📁 Projetos relacionados à Ciência de Dados e programação.
-- 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.
-- 🧠 Documentação e recursos que encontrei úteis durante minha jornada de aprendizado.
+- 📁 Projetos relacionados à Ciência de Dados e programação.<br/>
+- 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.<br/>
+- 🧠 Documentação e recursos que encontrei úteis durante minha jornada de aprendizado.<br/>
 
 ## 🛠️ Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="sql_logo.png" height="50"/>
+- Python;
+- Git;
+- SQL.
+  </br>
+
+   <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" style="margin-right: 10px;">
+   <img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor" style="margin-right: 10px;">
+   <img src="sql_logo.png" height="50" style="margin-right: 10px;">
 
 ## 🌱 Estou aprendendo
 
-<img src="excel.png" height="50"/><img src="power_bi.png" height="50"/>
+- Excel;
+- Power BI.
+</br>
+
+   <img height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="margin-right: 10px;"/>
+   <img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" style="margin-right: 10px;"/>
+  </div>
+  <img width="350px" src="avatar2.png">
+</div>
 
 ## 💬 Conecte-se Comigo
 
