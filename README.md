@@ -2,21 +2,22 @@
 
 <img align="right" width="220px" src="avatar1.png">
 
-Me chamo Karolline, mas pode me chamar de Karol, tenho 35 anos, natural de Belém/PA, mas moro no Rio de Janeiro/RJ. Sou apaixonada por gatinhos e tenho grande apreço pelos animais🐈.
+Me chamo Karolline, mas pode me chamar de Karol. Tenho 37 anos, sou natural de Belém/PA, e atualmente moro no Rio de Janeiro/RJ. Sou apaixonada por gatinhos e animais em geral 🐈.
 
-No momento estou cursando Ciência da Computação 💻 desde agosto de 2023, mas já estou mergulhada no mundo de análise de dados desde maio de 2023.
+Atualmente, sou Estagiária na área de Rentabilization Management da TIM Brasil, onde fui aprovada entre 148 estagiários em um processo seletivo com quase 16 mil candidatos. Minhas atividades incluem suporte em análises de bases de dados, criação de dashboards e apresentações com Power BI e PowerPoint, além da validação de dados para gerar insights estratégicos.
 
-Estou em busca de uma carreira que me proporcione maior satisfação pessoal e profissional, e foi assim que descobri minha paixão pela análise de Dados📊.
+Estou cursando Ciência da Computação 💻 desde agosto de 2023 e me aprofundei no mundo da análise de dados a partir de maio do mesmo ano. Desde então, essa área se tornou uma verdadeira paixão 📊.
 
-Nas minhas horas livres, adoro assistir a séries e filmes para relaxar e me entreter 📺 e jogar videogames para desafiar minha mente e me divertir 🎮.
+Nas horas vagas, gosto de assistir a séries e filmes 📺 para relaxar e de jogar videogames 🎮 para desafiar minha mente e me divertir.
 
-Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 💡
+Sinta-se à vontade para entrar em contato para conversar sobre projetos ou para trocar ideias 💡.
 
 
 
 ## 👩🏻‍🦰 Mais sobre Mim
 
 - 🎓 Cursando Ciência da Computação na Estácio;
+- 💼 Estagiária em Análise de Dados na TIM Brasil, na área de Rentabilization Management;
 - 📚 Minhas áreas de estudo incluem Análise de Dados, Aprendizado de Máquina, Visualização de Dados e muito mais;
 - 💼 Estou sempre em busca de oportunidades de aprendizado e projetos desafiadores;
 - 🌍 Sou apaixonada por explorar novos conceitos e compartilhar meu conhecimento com a comunidade;
