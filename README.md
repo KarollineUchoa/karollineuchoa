@@ -17,7 +17,7 @@ Sinta-se à vontade para entrar em contato para conversar sobre projetos ou para
 ## 👩🏻‍🦰 Mais sobre Mim
 
 - 🎓 Cursando Ciência da Computação na Estácio;
-- 💼 Estagiária em Análise de Dados na TIM Brasil, na área de Rentabilization Management;
+- 📊 Estagiária em Análise de Dados na TIM Brasil, na área de Rentabilization Management;
 - 📚 Minhas áreas de estudo incluem Análise de Dados, Aprendizado de Máquina, Visualização de Dados e muito mais;
 - 💼 Estou sempre em busca de oportunidades de aprendizado e projetos desafiadores;
 - 🌍 Sou apaixonada por explorar novos conceitos e compartilhar meu conhecimento com a comunidade;
